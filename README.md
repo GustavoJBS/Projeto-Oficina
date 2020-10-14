@@ -50,6 +50,6 @@ Foi Usado o RealTimeDataBase do Firebase como Banco de Dados para a aplicação.
  <p align="center">
   <img src="https://github.com/GustavoJBS/ProjetoOficina/blob/main/src/assets/PrintsGitHub/Tela%20DrawerMenu.png" width="350" alt="accessibility text">
 </p>
-<p align="center">Tela Menu</p>
+<p align="center">Drawer Menu da Aplicação</p>
 
 
